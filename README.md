@@ -38,7 +38,7 @@ This project is a heavily refactored, modularized, and English-translated versio
 This project is an educational refactor. The original concept, base ASCII art, and initial Dutch logic were created by Jurre.
 
 You can find the original, un-refactored source code here:
-RVKE/Python-StickmanGame
+[](https://github.com/RVKE/Python-StickmanGame.git)
 
 Modifications in this version include:
 
