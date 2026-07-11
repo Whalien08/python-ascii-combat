@@ -25,7 +25,8 @@ This project is a heavily refactored, modularized, and English-translated versio
 
     On your turn, select a weapon (1-5) to attack or heal. Survive until the enemy's HP hits 0!
 
-📂 Code Structure
+
+## 📂 Code Structure
 
     WEAPONS Dictionary: Add, balance, or modify weapons easily without hunting through the game loop.
 
@@ -33,7 +34,7 @@ This project is a heavily refactored, modularized, and English-translated versio
 
     play_animation(): Handles the timing and screen-clearing required to render the ASCII string arrays seamlessly.
 
-🤝 Credits & Attribution
+## 🤝 Credits & Attribution
 
 This project is an educational refactor. The original concept, base ASCII art, and initial Dutch logic were created by Jurre.
 
@@ -50,6 +51,6 @@ Modifications in this version include:
 
     Data structure improvements (grouping discrete variables into unified dictionaries).
 
-📝 License
+## 📝 License
 
 This adapted version respects the #Copyright reserved tag of the original creator. It is shared for educational and portfolio purposes to demonstrate Python refactoring and modularization.
